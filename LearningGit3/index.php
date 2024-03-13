@@ -17,5 +17,6 @@
         <li>Setiawan Putra</li>
         <li>Doddy Pratama</li>
     </ol>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae voluptatem beatae eveniet perspiciatis, similique cum veritatis modi quae unde, esse nisi. Iste vero incidunt magnam ratione ad voluptas minima cumque sapiente eaque delectus, commodi in exercitationem ipsum accusantium esse iure.</p>
 </body>
 </html>
